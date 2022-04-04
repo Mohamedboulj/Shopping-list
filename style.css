@@ -40,9 +40,7 @@ h1 {
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-bottom: 3px solid #fff;
 }
-main{
-  overflow:scroll;
-}
+
 p {
   font-size: 22px;
 }
